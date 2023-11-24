@@ -24,9 +24,13 @@ cd mvp-credit-wallet-service
 npm install
 ```
 
-4. Create a `.env` file to store your database connection details:
+4. Create a `.env` file from the `.env.sample` to store your app and database connection details:
 
 ```
+APP_NAME=
+APP_PORT=
+APP_ENV= #development | staging | production
+
 DB_HOST=localhost
 DB_USER=root
 DB_PASSWORD=password

@@ -1,4 +1,4 @@
-# LendSQR Credit Wallet Service
+# MVP-SQR Credit Wallet Service
 
 This project provides a simple Node.js application that implements a basic credit wallet service. The service allows users to register, fund their accounts, transfer funds to other users, and withdraw funds.
 
@@ -9,13 +9,13 @@ To install the dependencies and run the application, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/thisishaykins/lendsqr-credit-wallet-service.git
+git clone https://github.com/thisishaykins/mvp-credit-wallet-service.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd lendsqr-credit-wallet-service
+cd mvp-credit-wallet-service
 ```
 
 3. Install the dependencies:
